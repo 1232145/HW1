@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50%;
+}
+
+form {
+    border: 2px solid black;
+    padding: 20px;
+}
+
+p {
+    border: 1px solid white;
+    border-width: thin;
+    border-radius: 20%;
+    padding: 10px;
+    background-color: aliceblue;
+}
